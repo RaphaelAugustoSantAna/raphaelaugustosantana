@@ -5,8 +5,7 @@ Estudante de desenvolvimento web na Trybe. Já tive experiências profissionais 
 
 * 🌍  Residente em Vargem Grande Paulista, SP-Brasil
 
-<a href="https://www.github.com/https://github.com/RaphaelAugustoSantAna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/RaphaelAugustoSantAna?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+
 
 ### Skills
 
