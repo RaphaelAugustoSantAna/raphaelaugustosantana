@@ -1,4 +1,4 @@
-Hi 👋 My name is Raphael Sant'Ana
+Olá eu sou o Raphael Sant'Ana
 =================================
 
 Estudante de desenvolvimento web na Trybe. Já tive experiências profissionais em diversas áreas, que me despertaram habilidades emocionais, artísticas, criativas e interpessoais. O maior desafio tem sido na tecnologia, fazendo me superar diariamente e descobrindo que posso ir muito além! #VQV Competências adquiridas: HTML CSS Javascript React JS Git GitHub Docker metodologias Ageis
