@@ -1,7 +1,7 @@
 Olá eu sou o Raphael Sant'Ana
 =================================
 
-Estudante de desenvolvimento web na Trybe. Já tive experiências profissionais em diversas áreas, que me despertaram habilidades emocionais, artísticas, criativas e interpessoais. O maior desafio tem sido na tecnologia, fazendo me superar diariamente e descobrindo que posso ir muito além! #VQV Competências adquiridas: HTML CSS Javascript React JS Git GitHub Docker metodologias Ageis
+Estudante de desenvolvimento web na Trybe. Já tive experiências profissionais em diversas áreas, que me despertaram habilidades emocionais, artísticas, criativas e interpessoais. O maior desafio tem sido na tecnologia, fazendo me superar diariamente e descobrindo que posso ir muito além! #VQV Competências adquiridas: HTML, CSS, Javascript, React JS, Git, GitHub, Docker, metodologias Ageis.
 
 * 🌍  Atualmente morando em Vargem Grande Paulista, SP-Brasil
 * ✉️  email para contato: [raphael\_a\_santana@outlook.com](mailto:raphael_a_santana@outlook.com)
