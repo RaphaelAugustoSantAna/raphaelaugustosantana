@@ -1,7 +1,15 @@
 Olá eu sou o Raphael Sant'Ana
 =================================
 
-Estudante de desenvolvimento web na Trybe. Já tive experiências profissionais em diversas áreas, que me despertaram habilidades emocionais, artísticas, criativas e interpessoais. O maior desafio tem sido na tecnologia, fazendo me superar diariamente e descobrindo que posso ir muito além! #VQV Competências adquiridas: HTML, CSS, Javascript, React JS, Git, GitHub, Docker, metodologias Ageis.
+Sou desenvolvedor web full stack.<br>
+Com experiências profissionais em diversas áreas, desenvolvi habilidades emocionais, artísticas, criativas e interpessoais, que complementam minha atuação na tecnologia.<br> A jornada na área de desenvolvimento tem sido desafiadora e gratificante, permitindo-me superar limites e descobrir novas capacidades a cada dia.
+
+# Competências Técnicas
+* Front-end: HTML, CSS, JavaScript, React.JS, testes com RTL, Context API, React Hooks.
+* Back-end: Node.js, Express, SQL, NoSQL, Express, Mocha, Chai e Sinon, cnstrução de APIs, REST, JWT, ORM, TypeScript, POO, SOLID, conceitos de CI/CD e VPS.
+* Programação e Algoritmos: Python, Programação Orientada a Objetos (POO), Algoritmos e Complexidade, Estrutura de Dados, Resolução de Problemas
+* DevOps: Docker, Git, GitHub
+* Metodologias Ágeis: Scrum, Kanban
 
 * 🌍  Atualmente morando em Vargem Grande Paulista, SP-Brasil
 * ✉️  email para contato: [raphael\_a\_santana@outlook.com](mailto:raphael_a_santana@outlook.com)
